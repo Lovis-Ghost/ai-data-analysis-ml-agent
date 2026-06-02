@@ -207,7 +207,7 @@ It can then train baseline models, compare evaluation metrics, show a confusion 
 ## Project Structure
 
 ```text
-ai-data-analysis-ml-agent/
+AI_Data_Analysis_ML_Agent/
 ├── app.py
 ├── requirements.txt
 ├── CHANGELOG.md
@@ -242,8 +242,8 @@ ai-data-analysis-ml-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lovis-Ghost/ai-data-analysis-ml-agent.git
-cd ai-data-analysis-ml-agent
+git clone https://github.com/Lovis-Ghost/AI_Data_Analysis_ML_Agent.git
+cd AI_Data_Analysis_ML_Agent
 ```
 
 ### 2. Create and activate a virtual environment
